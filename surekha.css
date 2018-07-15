@@ -1,0 +1,25 @@
+#listMovieResults, #listMovieForm, #searchMovieForm, #searchMovieResults {
+    display: none
+}
+
+.movies {
+    background-color: #0BB;
+    margin-top: 10px;
+}
+
+#searchMovieForm {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px black solid;
+}
+
+.movie {
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    border: 1px gray solid;
+    background-color: white;
+    color: red;
+    font: 1.2em;
+    text-align: center;
+}
